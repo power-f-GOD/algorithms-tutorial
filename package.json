@@ -1,0 +1,15 @@
+{
+  "name": "algorithms-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/power-f-GOD/algorithms-tutorial.git",
+  "author": "Sunday Power Inemesit <sundaypower9@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "ts-node": "^10.4.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.4.4"
+  }
+}
