@@ -1,6 +1,9 @@
 // Linear search algorithm
 
-const linear_search = (list, target) => {
+export const linear_search = (
+  list: Array<string | number>,
+  target: string | number
+) => {
   const limit = list.length;
   let found = false;
 
@@ -13,5 +16,3 @@ const linear_search = (list, target) => {
 
   return ['Linear search: ', found];
 };
-
-module.exports = linear_search;
